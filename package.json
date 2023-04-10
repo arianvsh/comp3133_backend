@@ -1,5 +1,5 @@
 {
-  "name": "lab4",
+  "name": "101345201_comp3133_assignment2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Elham Veisouei",
+  "author": "Arian Vossoughi Shahvari",
   "license": "ISC",
   "dependencies": {
     "@vercel/node": "^2.10.3",
